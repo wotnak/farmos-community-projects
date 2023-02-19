@@ -1,0 +1,625 @@
+[
+  {
+    "id": "farm_animal_death",
+    "name": "Animal Death log",
+    "desc": "Adds an animal death log type.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_animal_death",
+    "type": "contrib-module",
+    "categories": [
+      "Logs"
+    ]
+  },
+  {
+    "id": "farm_animal_purchase",
+    "name": "Animal Purchase log",
+    "desc": "Adds an animal purchase log type.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_animal_purchase",
+    "type": "contrib-module",
+    "categories": [
+      "Logs"
+    ]
+  },
+  {
+    "id": "farm_animal_sale",
+    "name": "Animal Sale log",
+    "desc": "Adds an animal sale log type.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_animal_sale",
+    "type": "contrib-module",
+    "categories": [
+      "Logs"
+    ]
+  },
+  {
+    "id": "farm_animal_weight",
+    "name": "farmOS Animal weight",
+    "desc": "Features for tracking weight of animals with observation logs.",
+    "src": "https://git.drupalcode.org/project/farm_animal_weight",
+    "drupal.org": "https://www.drupal.org/project/farm_animal_weight",
+    "type": "contrib-module",
+    "composer": "drupal/farm_animal_weight",
+    "categories": [
+      "Logs",
+      "Reports"
+    ]
+  },
+  {
+    "id": "farm_arable",
+    "name": "Farm Arable",
+    "desc": "farmOS Integration with Arable Mark sensors.",
+    "src": "https://github.com/Vital-Agronomics/farm_arable",
+    "type": "contrib-module",
+    "categories": [
+      "Sensors",
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_asset_area",
+    "name": "Farm asset area",
+    "desc": "Allows a specific area to be saved on assets.",
+    "src": "https://github.com/Vital-Agronomics/farm_asset_area",
+    "type": "contrib-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_asset_termination",
+    "name": "farmOS Asset Termination",
+    "desc": "Adds the ability to mark any log as terminating referenced assets.",
+    "src": "https://github.com/wotnak/farm_asset_termination",
+    "drupal.org": "https://www.drupal.org/project/farm_asset_termination",
+    "type": "contrib-module",
+    "composer": "drupal/farm_asset_termination",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_bee",
+    "name": "Bee",
+    "desc": "Beekeeping features for farmOS.",
+    "src": "https://github.com/farmOS/farm_bee",
+    "drupal.org": "https://www.drupal.org/project/farm_bee",
+    "type": "contrib-module",
+    "composer": "drupal/farm_bee",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_biodynamic",
+    "name": "Biodynamic",
+    "desc": "Provides a flag for marking records as \"Biodynamic\" in farmOS.",
+    "src": "https://github.com/farmOS/farm_biodynamic/tree/2.x",
+    "drupal.org": "https://www.drupal.org/project/farm_biodynamic",
+    "type": "contrib-module",
+    "composer": "drupal/farm_biodynamic",
+    "categories": [
+      "Assets",
+      "Logs"
+    ]
+  },
+  {
+    "id": "farm_botl",
+    "name": "BOTL Farm module",
+    "desc": "Custom module for BOTL Farm.",
+    "src": "https://github.com/botlfarm/farm_botl",
+    "type": "custom-module",
+    "categories": [
+      "Quick forms"
+    ]
+  },
+  {
+    "id": "farm_calendar_events",
+    "name": "Farm Calendar events",
+    "desc": "Notifys Calendar events to Google Calendars.",
+    "src": "https://github.com/Farmer-Eds-Shed/farm_calendar_events",
+    "type": "contrib-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_cattle_flags",
+    "name": "Farm Cattle Flags",
+    "desc": "Adds new custom cattle flag types.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_cattle_flags",
+    "type": "contrib-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_coffee",
+    "name": "Farm Coffee",
+    "desc": "farmOS integration with drupal/coffee.",
+    "src": "https://github.com/paul121/farm_coffee",
+    "drupal.org": "https://www.drupal.org/project/farm_coffee",
+    "type": "contrib-module",
+    "composer": "drupal/farm_coffee",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_crop_plan",
+    "name": "Crop plan",
+    "desc": "Crop plan type and related features for farmOS.",
+    "src": "https://github.com/mstenta/farm_crop_plan/tree/2.x",
+    "type": "contrib-module",
+    "categories": [
+      "Plans"
+    ]
+  },
+  {
+    "id": "farm_eggs",
+    "name": "farmOS Eggs",
+    "desc": "Provides functionalities for tracking egg harvests.",
+    "src": "https://github.com/wotnak/farm_eggs",
+    "type": "contrib-module",
+    "categories": [
+      "Quick forms"
+    ]
+  },
+  {
+    "id": "farm_farmlab",
+    "name": "FarmLab",
+    "desc": "farmOS integration with FarmLab.",
+    "src": "https://github.com/Regen-Digital/farm_farmlab",
+    "drupal.org": "https://www.drupal.org/project/farm_farmlab",
+    "type": "contrib-module",
+    "composer": "drupal/farm_farmlab",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_forest",
+    "name": "Forest asset",
+    "desc": "Adds a Forest asset type.",
+    "src": "https://github.com/farmOS/farm_forest",
+    "drupal.org": "https://www.drupal.org/project/farm_forest",
+    "type": "contrib-module",
+    "composer": "drupal/farm_forest",
+    "categories": [
+      "Assets",
+      "Plans"
+    ]
+  },
+  {
+    "id": "farm_fungi",
+    "name": "Fungi",
+    "desc": "Fungi cultivation features for farmOS.",
+    "src": "https://github.com/farmOS/farm_mushroom/tree/2.x",
+    "drupal.org": "https://www.drupal.org/project/farm_fungi",
+    "type": "contrib-module",
+    "composer": "drupal/farm_fungi",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_goal",
+    "name": "farmOS Goals",
+    "desc": "Manage farm goals.",
+    "src": "https://github.com/mstenta/farm_goal",
+    "type": "contrib-module",
+    "categories": [
+      "Quick forms",
+      "Plans"
+    ]
+  },
+  {
+    "id": "farm_graphing_reporting",
+    "name": "farmOS graphing reporting",
+    "desc": "farmOS graphing reporting",
+    "src": "https://github.com/Yash621/farm_graphing_reporting",
+    "type": "custom-module",
+    "categories": [
+      "Reports"
+    ]
+  },
+  {
+    "id": "farm_iframe",
+    "name": "farmOS iFrame Module",
+    "desc": "Embeds iFrames in farmOS",
+    "src": "https://github.com/Farmer-Eds-Shed/farm_iframe",
+    "type": "contrib-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_influxdb",
+    "name": "Farm Influxdb",
+    "desc": "Integrates data streams with influx DB.",
+    "src": "https://github.com/Vital-Agronomics/farm_influxdb",
+    "type": "contrib-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_ledger",
+    "name": "Ledger",
+    "desc": "Sale and purchase logs for farmOS.",
+    "src": "https://github.com/farmOS/farm_ledger",
+    "drupal.org": "https://www.drupal.org/project/farm_ledger",
+    "type": "contrib-module",
+    "composer": "drupal/farm_ledger",
+    "categories": [
+      "Logs"
+    ]
+  },
+  {
+    "id": "farm_loocc",
+    "name": "LOOC-C",
+    "desc": "farmOS integration with LOOC-C calculator.",
+    "src": "https://github.com/Regen-Digital/farm_loocc",
+    "drupal.org": "https://www.drupal.org/project/farm_loocc",
+    "type": "contrib-module",
+    "composer": "drupal/farm_loocc",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_map_google",
+    "name": "farmOS Google Maps",
+    "desc": "Adds Google layers to farm maps.",
+    "src": "https://github.com/paul121/farm_map_google",
+    "drupal.org": "https://www.drupal.org/project/farm_map_google",
+    "type": "contrib-module",
+    "composer": "drupal/farm_map_google",
+    "categories": [
+      "Map"
+    ]
+  },
+  {
+    "id": "farm_map_openweathermap",
+    "name": "farmOS OpenWeatherMap",
+    "desc": "Adds openweathermap layers to farmOS maps.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS_OpenWeatherMap",
+    "type": "contrib-module",
+    "categories": [
+      "Map"
+    ]
+  },
+  {
+    "id": "farm_map_poland",
+    "name": "farmOS Map Poland",
+    "desc": "Polish map layers for farmOS maps.",
+    "src": "https://github.com/wotnak/farm_map_poland",
+    "drupal.org": "https://www.drupal.org/project/farm_map_poland",
+    "type": "contrib-module",
+    "composer": "drupal/farm_map_poland",
+    "categories": [
+      "Map"
+    ]
+  },
+  {
+    "id": "farm_map_sjc",
+    "name": "Farm Map San Juan Islands",
+    "desc": "San Juan Islands map layers for farmOS maps.",
+    "src": "https://github.com/symbioquine/farm_map_sjc",
+    "drupal.org": "https://www.drupal.org/project/farm_map_sjc",
+    "type": "contrib-module",
+    "composer": "drupal/farm_map_sjc",
+    "categories": [
+      "Map"
+    ]
+  },
+  {
+    "id": "farm_material_flags",
+    "name": "Farm Material Flags",
+    "desc": "Adds new custom material flag types.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_material_flags",
+    "type": "contrib-module",
+    "categories": [
+      "Logs",
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_modus",
+    "name": "Modus",
+    "desc": "Provides features for working with Modus data in farmOS.",
+    "src": "https://github.com/mstenta/farm_modus/tree/1.x-import",
+    "type": "contrib-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_multifarm",
+    "name": "Multifarm",
+    "desc": "Manage multiple farms in farmOS.",
+    "src": "https://github.com/mstenta/farm_multifarm",
+    "type": "contrib-module"
+  },
+  {
+    "id": "farm_myfarmkey",
+    "name": "farmOS MyFarmKey",
+    "desc": "Integrates farmOS with MyFarmKey.",
+    "src": "https://github.com/Regen-Digital/farm_myfarmkey",
+    "drupal.org": "https://www.drupal.org/project/farm_myfarmkey",
+    "type": "contrib-module",
+    "composer": "drupal/farm_myfarmkey",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_notifications",
+    "name": "Farm Notifications",
+    "desc": "Notifys events to external server by HTTP POST.",
+    "src": "https://github.com/Farmer-Eds-Shed/farm_notifications",
+    "type": "contrib-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_nrcs",
+    "name": "farmOS NRCS",
+    "desc": "Adds NRCS Soil Survey layer to farmOS maps.",
+    "src": "https://github.com/farmOS/farm_nrcs",
+    "drupal.org": "https://www.drupal.org/project/farm_nrcs",
+    "type": "contrib-module",
+    "composer": "drupal/farm_nrcs",
+    "categories": [
+      "Maps"
+    ]
+  },
+  {
+    "id": "farm_organic",
+    "name": "Organic",
+    "desc": "Provides flags for marking records as \"Organic\", \"Not Organic\" and \"Transitional Organic\" in farmOS.",
+    "src": "https://github.com/farmOS/farm_organic",
+    "drupal.org": "https://www.drupal.org/project/farm_organic",
+    "type": "contrib-module",
+    "composer": "drupal/farm_organic",
+    "categories": [
+      "Logs",
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_plot",
+    "name": "Plot asset",
+    "desc": "Adds a experiment Plot asset type.",
+    "src": "https://github.com/Rothamsted-Ecoinformatics/farmos-plots",
+    "type": "contrib-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_profile",
+    "name": "farmOS Profile",
+    "desc": "Provides a profile entity.",
+    "src": "https://github.com/mstenta/farm_profile",
+    "drupal.org": "https://www.drupal.org/project/farm_profile",
+    "type": "contrib-module",
+    "composer": "drupal/farm_profile",
+    "categories": [
+      "Profiles"
+    ]
+  },
+  {
+    "id": "farm_profile_common",
+    "name": "farmOS Profile: Common",
+    "desc": "Provides a farmOS profile type for common farm information.",
+    "src": "https://github.com/mstenta/farm_profile_common",
+    "type": "contrib-module",
+    "categories": [
+      "Profiles"
+    ]
+  },
+  {
+    "id": "farm_profile_hylo",
+    "name": "farmOS Profile: Hylo",
+    "desc": "Provides a farmOS profile type for Hylo.com.",
+    "src": "https://github.com/mstenta/farm_profile_hylo",
+    "type": "contrib-module",
+    "categories": [
+      "Integrations",
+      "Profiles"
+    ]
+  },
+  {
+    "id": "farm_project_plan",
+    "name": "farmOS Project plan",
+    "desc": "Provides a general project plan type.",
+    "src": "https://git.drupalcode.org/project/farm_project_plan",
+    "drupal.org": "https://www.drupal.org/project/farm_project_plan",
+    "type": "contrib-module",
+    "composer": "drupal/farm_project_plan",
+    "categories": [
+      "Plans"
+    ]
+  },
+  {
+    "id": "farm_quick_egg",
+    "name": "Egg Quick Form",
+    "desc": "Record egg harvest.",
+    "src": "https://github.com/botlfarm/farm_quick_egg",
+    "type": "contrib-module",
+    "categories": [
+      "Quick forms"
+    ]
+  },
+  {
+    "id": "farm_reference_animal",
+    "name": "Reference Animal",
+    "desc": "Adds reference animal asset type.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_reference_animal",
+    "type": "contrib-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_regen_digital",
+    "name": "Regen Digital",
+    "desc": "farmOS module for Regen Digital.",
+    "src": "https://github.com/Regen-Digital/farm_regen_digital",
+    "type": "contrib-module",
+    "categories": [
+      "Maps",
+      "Profiles",
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_regen_digital_bsc",
+    "name": "Regen Digital Beef Supply Chain",
+    "desc": "Demo beef supply chain module.",
+    "src": "https://github.com/Regen-Digital/farm_regen_digital_bsc",
+    "type": "contrib-module",
+    "categories": [
+      "Profiles",
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_rei",
+    "name": "REI",
+    "desc": "Restricted-entry interval features for farmOS.",
+    "src": "https://github.com/paul121/farm_rei",
+    "drupal.org": "https://www.drupal.org/project/farm_rei",
+    "type": "contrib-module",
+    "composer": "drupal/farm_rei",
+    "categories": [
+      "Logs"
+    ]
+  },
+  {
+    "id": "farm_rothamsted",
+    "name": "farmOS Rothamsted",
+    "desc": "Custom farmOS features for Rothamsted Research.",
+    "src": "https://github.com/Rothamsted-Ecoinformatics/farm_rothamsted",
+    "type": "custom-module",
+    "categories": [
+      "Logs",
+      "Assets",
+      "Plans",
+      "Quick forms"
+    ]
+  },
+  {
+    "id": "farm_species",
+    "name": "farmOS Species vocabulary",
+    "desc": "Provides an species vocabulary",
+    "src": "https://github.com/c4ndel4/farm_species",
+    "type": "contrib-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_surveystack",
+    "name": "farmOS SurveyStack",
+    "desc": "farmOS SurveyStack.io integration module.",
+    "src": "https://github.com/mstenta/farm_surveystack",
+    "type": "contrib-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_tree_measure",
+    "name": "Tree Measurement Quick Form",
+    "desc": "Provides a quick form for measuring tree growth.",
+    "src": "https://github.com/mstenta/farm_tree_measure",
+    "type": "contrib-module",
+    "categories": [
+      "Quick forms"
+    ]
+  },
+  {
+    "id": "farm_withdrawal",
+    "name": "Withdrawal",
+    "desc": "Medical withdrawal entry features for farmOS.",
+    "src": "https://github.com/Farmer-Eds-Shed/farm_withdrawal",
+    "type": "custom-module",
+    "categories": [
+      "Logs",
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farmos_asset_link",
+    "name": "farmOS Asset Link",
+    "desc": "Supercharges links to your farmOS assets with an extensible hybrid PWA experience.",
+    "src": "https://github.com/symbioquine/farmOS_asset_link",
+    "drupal.org": "https://www.drupal.org/project/farmos_asset_link",
+    "type": "contrib-module",
+    "composer": "drupal/farmos_asset_link"
+  },
+  {
+    "id": "farmos_land_drawing_tool",
+    "name": "farmOS Land Drawing Tool",
+    "desc": "Provides a land drawing tool for farmOS",
+    "src": "https://github.com/symbioquine/farmOS_land_drawing_tool",
+    "drupal.org": "https://www.drupal.org/project/farmos_land_drawing_tool",
+    "type": "contrib-module",
+    "composer": "drupal/farmos_land_drawing_tool",
+    "categories": [
+      "Maps"
+    ]
+  },
+  {
+    "id": "farmos_money_asset",
+    "name": "farmOS Money",
+    "desc": "Provides a money asset type for farmOS",
+    "src": "https://github.com/symbioquine/farmOS_money_asset",
+    "type": "contrib-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farmos_wfs",
+    "name": "farmOS WFS",
+    "desc": "Provides a WFS endpoint for farmOS",
+    "src": "https://github.com/symbioquine/farmOS_wfs",
+    "drupal.org": "https://www.drupal.org/project/farmos_wfs",
+    "type": "contrib-module",
+    "composer": "drupal/farmos_wfs",
+    "categories": [
+      "Maps",
+      "Integrations"
+    ]
+  },
+  {
+    "id": "FarmOS-2.0-Node-Red-Flows",
+    "name": "FarmOS-2.0-Node-Red-Flows",
+    "desc": "Node Red flows for farmOS 2.0",
+    "src": "https://github.com/Farmer-Eds-Shed/FarmOS-Node-Red-Flows",
+    "type": "project",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farmOS-Node-Red-Android-Project",
+    "name": "farmOS-Node-Red-Android-Project",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Node-Red-Android-Project",
+    "type": "project",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "Node-Red-4-farmOS",
+    "name": "Node-Red-4-farmOS",
+    "desc": "Node Red Custom nodes for interacting with farmOS API.",
+    "src": "https://github.com/Farmer-Eds-Shed/Node-Red-4-farmOS",
+    "type": "project",
+    "categories": [
+      "Integrations"
+    ]
+  }
+]
