@@ -273,7 +273,7 @@
     "type": "contrib-module",
     "composer": "drupal/farm_map_google",
     "categories": [
-      "Map"
+      "Maps"
     ]
   },
   {
@@ -283,7 +283,7 @@
     "src": "https://github.com/Farmer-Eds-Shed/farmOS_OpenWeatherMap",
     "type": "contrib-module",
     "categories": [
-      "Map"
+      "Maps"
     ]
   },
   {
@@ -295,7 +295,7 @@
     "type": "contrib-module",
     "composer": "drupal/farm_map_poland",
     "categories": [
-      "Map"
+      "Maps"
     ]
   },
   {
@@ -307,7 +307,7 @@
     "type": "contrib-module",
     "composer": "drupal/farm_map_sjc",
     "categories": [
-      "Map"
+      "Maps"
     ]
   },
   {
