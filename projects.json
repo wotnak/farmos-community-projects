@@ -351,6 +351,18 @@
     ]
   },
   {
+    "id": "farm_nfa",
+    "desc": "Uganda National Forestry Authority farmOS module.",
+    "src": "https://github.com/National-Forestry-Authority/forests/tree/main/web/modules/custom/farm_nfa",
+    "type": "custom-module",
+    "categories": [
+      "Assets",
+      "Logs",
+      "Plans",
+      "Integrations"
+    ]
+  },
+  {
     "id": "farm_notifications",
     "name": "Farm Notifications",
     "desc": "Notifys events to external server by HTTP POST.",
@@ -536,6 +548,15 @@
     "type": "contrib-module",
     "categories": [
       "Quick forms"
+    ]
+  },
+  {
+    "id": "farm_ui_layout_builder",
+    "name": "farmOS UI Layout Builder",
+    "desc": "Provides integration of farmOS with Layout Builder.",
+    "type": "custom-module",
+    "categories": [
+      "Integrations"
     ]
   },
   {
