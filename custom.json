@@ -1,0 +1,380 @@
+[
+  {
+    "id": "farm_animal_death",
+    "name": "Animal Death log",
+    "desc": "Adds an animal death log type.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_animal_death",
+    "type": "custom-module",
+    "categories": [
+      "Logs"
+    ]
+  },
+  {
+    "id": "farm_animal_purchase",
+    "name": "Animal Purchase log",
+    "desc": "Adds an animal purchase log type.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_animal_purchase",
+    "type": "custom-module",
+    "categories": [
+      "Logs"
+    ]
+  },
+  {
+    "id": "farm_animal_sale",
+    "name": "Animal Sale log",
+    "desc": "Adds an animal sale log type.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_animal_sale",
+    "type": "custom-module",
+    "categories": [
+      "Logs"
+    ]
+  },
+  {
+    "id": "farm_arable",
+    "name": "Farm Arable",
+    "desc": "farmOS Integration with Arable Mark sensors.",
+    "src": "https://github.com/Vital-Agronomics/farm_arable",
+    "type": "custom-module",
+    "categories": [
+      "Sensors",
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_asset_area",
+    "name": "Farm asset area",
+    "desc": "Allows a specific area to be saved on assets.",
+    "src": "https://github.com/Vital-Agronomics/farm_asset_area",
+    "type": "custom-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_botl",
+    "name": "BOTL Farm module",
+    "desc": "Custom module for BOTL Farm.",
+    "src": "https://github.com/botlfarm/farm_botl",
+    "type": "custom-module",
+    "categories": [
+      "Quick forms"
+    ]
+  },
+  {
+    "id": "farm_calendar_events",
+    "name": "Farm Calendar events",
+    "desc": "Notifys Calendar events to Google Calendars.",
+    "src": "https://github.com/Farmer-Eds-Shed/farm_calendar_events",
+    "type": "custom-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_cattle_flags",
+    "name": "Farm Cattle Flags",
+    "desc": "Adds new custom cattle flag types.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_cattle_flags",
+    "type": "custom-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_crop_plan",
+    "name": "Crop plan",
+    "desc": "Crop plan type and related features for farmOS.",
+    "src": "https://github.com/mstenta/farm_crop_plan/tree/2.x",
+    "type": "custom-module",
+    "categories": [
+      "Plans"
+    ]
+  },
+  {
+    "id": "farm_eggs",
+    "name": "farmOS Eggs",
+    "desc": "Provides functionalities for tracking egg harvests.",
+    "src": "https://github.com/wotnak/farm_eggs",
+    "type": "custom-module",
+    "categories": [
+      "Quick forms"
+    ]
+  },
+  {
+    "id": "farm_goal",
+    "name": "farmOS Goals",
+    "desc": "Manage farm goals.",
+    "src": "https://github.com/mstenta/farm_goal",
+    "type": "custom-module",
+    "categories": [
+      "Quick forms",
+      "Plans"
+    ]
+  },
+  {
+    "id": "farm_graphing_reporting",
+    "name": "farmOS graphing reporting",
+    "desc": "farmOS graphing reporting",
+    "src": "https://github.com/Yash621/farm_graphing_reporting",
+    "type": "custom-module",
+    "categories": [
+      "Reports"
+    ]
+  },
+  {
+    "id": "farm_iframe",
+    "name": "farmOS iFrame Module",
+    "desc": "Embeds iFrames in farmOS",
+    "src": "https://github.com/Farmer-Eds-Shed/farm_iframe",
+    "type": "custom-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_influxdb",
+    "name": "Farm Influxdb",
+    "desc": "Integrates data streams with influx DB.",
+    "src": "https://github.com/Vital-Agronomics/farm_influxdb",
+    "type": "custom-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_map_openweathermap",
+    "name": "farmOS OpenWeatherMap",
+    "desc": "Adds openweathermap layers to farmOS maps.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS_OpenWeatherMap",
+    "type": "custom-module",
+    "categories": [
+      "Maps"
+    ]
+  },
+  {
+    "id": "farm_material_flags",
+    "name": "Farm Material Flags",
+    "desc": "Adds new custom material flag types.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_material_flags",
+    "type": "custom-module",
+    "categories": [
+      "Logs",
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_modus",
+    "name": "Modus",
+    "desc": "Provides features for working with Modus data in farmOS.",
+    "src": "https://github.com/mstenta/farm_modus/tree/1.x-import",
+    "type": "custom-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_multifarm",
+    "name": "Multifarm",
+    "desc": "Manage multiple farms in farmOS.",
+    "src": "https://github.com/mstenta/farm_multifarm",
+    "type": "custom-module"
+  },
+  {
+    "id": "farm_nfa",
+    "desc": "Uganda National Forestry Authority farmOS module.",
+    "src": "https://github.com/National-Forestry-Authority/forests/tree/main/web/modules/custom/farm_nfa",
+    "type": "custom-module",
+    "categories": [
+      "Assets",
+      "Logs",
+      "Plans",
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_notifications",
+    "name": "Farm Notifications",
+    "desc": "Notifys events to external server by HTTP POST.",
+    "src": "https://github.com/Farmer-Eds-Shed/farm_notifications",
+    "type": "custom-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_plot",
+    "name": "Plot asset",
+    "desc": "Adds a experiment Plot asset type.",
+    "src": "https://github.com/Rothamsted-Ecoinformatics/farmos-plots",
+    "type": "custom-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_profile_common",
+    "name": "farmOS Profile: Common",
+    "desc": "Provides a farmOS profile type for common farm information.",
+    "src": "https://github.com/mstenta/farm_profile_common",
+    "type": "custom-module",
+    "categories": [
+      "Profiles"
+    ]
+  },
+  {
+    "id": "farm_profile_hylo",
+    "name": "farmOS Profile: Hylo",
+    "desc": "Provides a farmOS profile type for Hylo.com.",
+    "src": "https://github.com/mstenta/farm_profile_hylo",
+    "type": "custom-module",
+    "categories": [
+      "Integrations",
+      "Profiles"
+    ]
+  },
+  {
+    "id": "farm_quick_egg",
+    "name": "Egg Quick Form",
+    "desc": "Record egg harvest.",
+    "src": "https://github.com/botlfarm/farm_quick_egg",
+    "type": "custom-module",
+    "categories": [
+      "Quick forms"
+    ]
+  },
+  {
+    "id": "farm_reference_animal",
+    "name": "Reference Animal",
+    "desc": "Adds reference animal asset type.",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Livestock-Modules/tree/main/farm_reference_animal",
+    "type": "custom-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_regen_digital",
+    "name": "Regen Digital",
+    "desc": "farmOS module for Regen Digital.",
+    "src": "https://github.com/Regen-Digital/farm_regen_digital",
+    "type": "custom-module",
+    "categories": [
+      "Maps",
+      "Profiles",
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_regen_digital_bsc",
+    "name": "Regen Digital Beef Supply Chain",
+    "desc": "Demo beef supply chain module.",
+    "src": "https://github.com/Regen-Digital/farm_regen_digital_bsc",
+    "type": "custom-module",
+    "categories": [
+      "Profiles",
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_rothamsted",
+    "name": "farmOS Rothamsted",
+    "desc": "Custom farmOS features for Rothamsted Research.",
+    "src": "https://github.com/Rothamsted-Ecoinformatics/farm_rothamsted",
+    "type": "custom-module",
+    "categories": [
+      "Logs",
+      "Assets",
+      "Plans",
+      "Quick forms"
+    ]
+  },
+  {
+    "id": "farm_species",
+    "name": "farmOS Species vocabulary",
+    "desc": "Provides an species vocabulary",
+    "src": "https://github.com/c4ndel4/farm_species",
+    "type": "custom-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "farm_surveystack",
+    "name": "farmOS SurveyStack",
+    "desc": "farmOS SurveyStack.io integration module.",
+    "src": "https://github.com/mstenta/farm_surveystack",
+    "type": "custom-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_tree_measure",
+    "name": "Tree Measurement Quick Form",
+    "desc": "Provides a quick form for measuring tree growth.",
+    "src": "https://github.com/mstenta/farm_tree_measure",
+    "type": "custom-module",
+    "categories": [
+      "Quick forms"
+    ]
+  },
+  {
+    "id": "farm_ui_layout_builder",
+    "name": "farmOS UI Layout Builder",
+    "desc": "Provides integration of farmOS with Layout Builder.",
+    "type": "custom-module",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farm_withdrawal",
+    "name": "Withdrawal",
+    "desc": "Medical withdrawal entry features for farmOS.",
+    "src": "https://github.com/Farmer-Eds-Shed/farm_withdrawal",
+    "type": "custom-module",
+    "categories": [
+      "Logs",
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farmos_money_asset",
+    "name": "farmOS Money",
+    "desc": "Provides a money asset type for farmOS",
+    "src": "https://github.com/symbioquine/farmOS_money_asset",
+    "type": "custom-module",
+    "categories": [
+      "Assets"
+    ]
+  },
+  {
+    "id": "FarmOS-2.0-Node-Red-Flows",
+    "name": "FarmOS-2.0-Node-Red-Flows",
+    "desc": "Node Red flows for farmOS 2.0",
+    "src": "https://github.com/Farmer-Eds-Shed/FarmOS-Node-Red-Flows",
+    "type": "project",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "farmOS-Node-Red-Android-Project",
+    "name": "farmOS-Node-Red-Android-Project",
+    "src": "https://github.com/Farmer-Eds-Shed/farmOS-Node-Red-Android-Project",
+    "type": "project",
+    "categories": [
+      "Integrations"
+    ]
+  },
+  {
+    "id": "Node-Red-4-farmOS",
+    "name": "Node-Red-4-farmOS",
+    "desc": "Node Red Custom nodes for interacting with farmOS API.",
+    "src": "https://github.com/Farmer-Eds-Shed/Node-Red-4-farmOS",
+    "type": "project",
+    "categories": [
+      "Integrations"
+    ]
+  }
+]
