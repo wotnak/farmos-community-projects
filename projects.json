@@ -183,7 +183,7 @@
       "considerations": [
         {
           "type": "warning",
-          "value": "Requires Google Maps API Key."
+          "value": "Requires Google Maps API key."
         }
       ]
     },
@@ -265,7 +265,7 @@
       "considerations": [
         {
           "type": "info",
-          "value": "actively maintained and intended for general use"
+          "value": "Actively maintained and intended for general use."
         }
       ]
     },
