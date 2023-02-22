@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/wotnak/farmos-community-projects/blob/main/schema.json",
+  "$id": "https://raw.githubusercontent.com/wotnak/farmos-community-projects/main/schema.json",
   "type": "object",
   "properties": {
     "projects": {

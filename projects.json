@@ -1,5 +1,5 @@
 {
-  "$schema": "https://github.com/wotnak/farmos-community-projects/blob/main/schema.json",
+  "$schema": "https://raw.githubusercontent.com/wotnak/farmos-community-projects/main/schema.json",
   "projects": [
     {
       "id": "farm_animal_weight",
