@@ -20,7 +20,6 @@
         "properties": {
           "id": {
             "type": "string",
-            "default": "",
             "examples": [
               "my_module"
             ],
@@ -36,7 +35,6 @@
           },
           "name": {
             "type": "string",
-            "default": "",
             "examples": [
               "My module"
             ],
