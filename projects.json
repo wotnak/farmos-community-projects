@@ -7,8 +7,8 @@
       "description": "Features for tracking weight of animals with observation Log.",
       "type": "contrib-module",
       "categories": [
-        "Log",
-        "Report"
+        "Logs",
+        "Reports"
       ],
       "maintainers": [
         {
@@ -27,7 +27,7 @@
       "description": "Adds the ability to mark any log as terminating referenced Asset.",
       "type": "contrib-module",
       "categories": [
-        "Asset"
+        "Assets"
       ],
       "maintainers": [
         {
@@ -42,7 +42,7 @@
       "description": "Beekeeping features for farmOS.",
       "type": "contrib-module",
       "categories": [
-        "Asset"
+        "Assets"
       ],
       "maintainers": [
         {
@@ -57,8 +57,8 @@
       "description": "Provides a flag for marking records as \"Biodynamic\" in farmOS.",
       "type": "contrib-module",
       "categories": [
-        "Asset",
-        "Log"
+        "Assets",
+        "Logs"
       ],
       "maintainers": [
         {
@@ -73,7 +73,7 @@
       "description": "farmOS integration with drupal/coffee.",
       "type": "contrib-module",
       "categories": [
-        "Integration"
+        "Integrations"
       ],
       "maintainers": [
         {
@@ -88,7 +88,7 @@
       "description": "farmOS integration with FarmLab.",
       "type": "contrib-module",
       "categories": [
-        "Integration"
+        "Integrations"
       ],
       "maintainers": [
         {
@@ -103,8 +103,8 @@
       "description": "Adds a Forest asset type.",
       "type": "contrib-module",
       "categories": [
-        "Asset",
-        "Plan"
+        "Assets",
+        "Plans"
       ],
       "maintainers": [
         {
@@ -123,7 +123,7 @@
       "description": "Fungi cultivation features for farmOS.",
       "type": "contrib-module",
       "categories": [
-        "Asset"
+        "Assets"
       ],
       "maintainers": [
         {
@@ -138,7 +138,7 @@
       "description": "Sale and purchase Log for farmOS.",
       "type": "contrib-module",
       "categories": [
-        "Log"
+        "Logs"
       ],
       "maintainers": [
         {
@@ -157,7 +157,7 @@
       "description": "farmOS integration with LOOC-C calculator.",
       "type": "contrib-module",
       "categories": [
-        "Integration"
+        "Integrations"
       ],
       "maintainers": [
         {
@@ -172,7 +172,7 @@
       "description": "Adds Google layers to farm Map.",
       "type": "contrib-module",
       "categories": [
-        "Map"
+        "Maps"
       ],
       "maintainers": [
         {
@@ -193,7 +193,7 @@
       "description": "Polish map layers for farmOS Map.",
       "type": "contrib-module",
       "categories": [
-        "Map"
+        "Maps"
       ],
       "maintainers": [
         {
@@ -208,7 +208,7 @@
       "description": "San Juan Islands map layers for farmOS Map.",
       "type": "contrib-module",
       "categories": [
-        "Map"
+        "Maps"
       ],
       "maintainers": [
         {
@@ -223,7 +223,7 @@
       "description": "Integrates farmOS with MyFarmKey.",
       "type": "contrib-module",
       "categories": [
-        "Integration"
+        "Integrations"
       ],
       "maintainers": [
         {
@@ -238,7 +238,7 @@
       "description": "Adds NRCS Soil Survey layer to farmOS Map.",
       "type": "contrib-module",
       "categories": [
-        "Map"
+        "Maps"
       ],
       "maintainers": [
         {
@@ -253,8 +253,8 @@
       "description": "Provides flags for marking records as \"Organic\", \"Not Organic\" and \"Transitional Organic\" in farmOS.",
       "type": "contrib-module",
       "categories": [
-        "Log",
-        "Asset"
+        "Logs",
+        "Assets"
       ],
       "maintainers": [
         {
@@ -275,7 +275,7 @@
       "description": "Provides a profile entity.",
       "type": "contrib-module",
       "categories": [
-        "Profile"
+        "Profiles"
       ],
       "maintainers": [
         {
@@ -290,7 +290,7 @@
       "description": "Provides a general project plan type.",
       "type": "contrib-module",
       "categories": [
-        "Plan"
+        "Plans"
       ],
       "maintainers": [
         {
@@ -305,7 +305,7 @@
       "description": "Restricted-entry interval features for farmOS.",
       "type": "contrib-module",
       "categories": [
-        "Log"
+        "Logs"
       ],
       "maintainers": [
         {
@@ -324,7 +324,7 @@
       "description": "Supercharges links to your farmOS Asset with an extensible hybrid PWA experience.",
       "type": "contrib-module",
       "categories": [
-        "Asset"
+        "Assets"
       ],
       "maintainers": [
         {
@@ -339,7 +339,7 @@
       "description": "Provides a land drawing tool for farmOS",
       "type": "contrib-module",
       "categories": [
-        "Map"
+        "Maps"
       ],
       "maintainers": [
         {
@@ -354,8 +354,8 @@
       "description": "Provides a WFS endpoint for farmOS",
       "type": "contrib-module",
       "categories": [
-        "Map",
-        "Integration"
+        "Maps",
+        "Integrations"
       ],
       "maintainers": [
         {

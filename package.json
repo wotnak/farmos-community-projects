@@ -3,7 +3,7 @@
   "name": "farmos-community-projects",
   "version": "0.1.0",
   "scripts": {
-    "test": "ajv validate -s schema.json -d projects.json"
+    "test": "ajv validate -s schema.json -d projects.json -d custom.json --all-errors"
   },
   "devDependencies": {
     "ajv-cli": "^5.0.0"

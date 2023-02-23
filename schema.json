@@ -55,14 +55,16 @@
             "items":{
               "type": "string",
               "enum": [
-                "Log",
-                "Asset",
-                "Quick form",
-                "Map",
-                "Plan",
-                "Report",
-                "Integration",
-                "Profile"
+                "Assets",
+                "Integrations",
+                "Logs",
+                "Maps",
+                "Other",
+                "Plans",
+                "Profiles",
+                "Quick forms",
+                "Reports",
+                "Sensors"
               ]
             }
           },
