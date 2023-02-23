@@ -2,8 +2,10 @@
   "private": true,
   "name": "farmos-community-projects",
   "version": "0.1.0",
+  "type": "module",
   "scripts": {
-    "test": "ajv validate -s schema.json -d projects.json"
+    "test": "ajv validate -s schema.json -d projects.json",
+    "fetch-updates": "node ./fetch-updates.js"
   },
   "devDependencies": {
     "ajv-cli": "^5.0.0"
